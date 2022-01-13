@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# IDE0005: Imports statement is unnecessary.
+dotnet_diagnostic.IDE0005.severity = none
